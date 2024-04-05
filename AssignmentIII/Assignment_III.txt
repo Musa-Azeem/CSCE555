@@ -12,10 +12,18 @@ PHASE 1:
     AWGHE
     AW-HE
 
-- Alignment by Ugene:
+- Alignment by Mega:
+    HEAGAWGHEE
+    ---PAWHEAE
 
 - Alignment by Biopython (global):
     - One of several optimal alignments shown here
 
     HE-AGAWGHE-E
     --PA--W-HEAE
+
+
+PHASE 2:
+- Biopython: Results were as expected. Shown in Phase2/assignmentIII_phase2_out.txt
+- Mega Parwise: Results were as expected. Shown in Phase2/mega-pairwise.png
+- Mega Multisequence alignment: Tree is shown in Phase2/phy-tree.png

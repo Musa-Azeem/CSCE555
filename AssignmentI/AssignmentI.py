@@ -5,13 +5,13 @@ from Bio.Seq import Seq
 from pathlib import Path
 
 if len(sys.argv) != 5:
-    print(f'Usage: {sys.argv[0]} <seq_length> <n_mutations> <mutation_rate> <outfile>')
+    print(f'Usage: {sys.argv[0]} <seq_length> <n_mutated_seqs> <mutation_rate> <outfile>')
     sys.exit(1)
 
 try:
     l,m,p = [int(arg) for arg in sys.argv[1:-1]]
     assert l > 0, 'Sequence length must be positive'
-    assert m > 0, 'Number of mutations must be positive'
+    assert m > 0, 'Number of mutated sequences must be positive'
     assert 0 <= p <= 100, 'Mutation rate must be within range [0,100]'
     p = p / 100
 except ValueError:

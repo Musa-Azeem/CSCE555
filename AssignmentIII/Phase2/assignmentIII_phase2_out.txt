@@ -1,0 +1,55 @@
+S0
+target            0 GTCGACCCAC 10
+                  0 |||||||||| 10
+query             0 GTCGACCCAC 10
+
+S1
+target            0 GTCGACCCAC 10
+                  0 |||||||||| 10
+query             0 GTCGACCCAC 10
+
+S2
+target            0 GTCGA-CCCAC 10
+                  0 |||||-||-|| 11
+query             0 GTCGATCC-AC 10
+
+S3
+target            0 GT-CGACCCAC- 10
+                  0 -|-|||||||-- 12
+query             0 -TTCGACCCA-A 10
+
+S4
+target            0 GTC-GACCCAC 10
+                  0 ||--||||||| 11
+query             0 GT-TGACCCAC 10
+
+S5
+target            0 GTC-G-ACCCAC 10
+                  0 --|-|-|||||| 12
+query             0 --CTGGACCCAC 10
+
+S6
+target            0 GTCGACCCAC 10
+                  0 |||||||||| 10
+query             0 GTCGACCCAC 10
+
+S7
+target            0 GTCG--ACCCAC 10
+                  0 |--|--|||||| 12
+query             0 G--GGGACCCAC 10
+
+S8
+target            0 GTC-GACCCAC 10
+                  0 |-|-||||||| 11
+query             0 G-CCGACCCAC 10
+
+S9
+target            0 G-TCGACCCAC- 10
+                  0 --||||||||-- 12
+query             0 -ATCGACCCA-G 10
+
+S10
+target            0 G-TCGA-CCCAC 10
+                  0 --||||-||-|| 12
+query             0 -CTCGAACC-AC 10
+
