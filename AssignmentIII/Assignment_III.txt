@@ -1,0 +1,21 @@
+PHASE 1:
+
+- Manual alignment by NW: 
+    - One of several optimal alignments shown here
+
+    HEAGAWGHE-E
+    --P-AW-HEAE
+
+- Manual alignment by SW:
+    - Local alignment at position 5 of seq 1 and position 2 of seq 2
+
+    AWGHE
+    AW-HE
+
+- Alignment by Ugene:
+
+- Alignment by Biopython (global):
+    - One of several optimal alignments shown here
+
+    HE-AGAWGHE-E
+    --PA--W-HEAE
