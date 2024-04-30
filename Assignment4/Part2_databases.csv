@@ -1,0 +1,9 @@
+database, url, type, description
+Ensembl, https://useast.ensembl.org/index.html, multicellular, "Ensembl is a genome browser for vertebrates."
+UCSC, https://genome.ucsc.edu/, multicellular, "UCSC Genome Browser is a web-based genome browser hosted by the University of California, Santa Cruz."
+Phytozome, https://phytozome-next.jgi.doe.gov, multicellular, "Phytozome is a comparative hub for plant genome and gene family data."
+Animal Genome Size Database, http://www.genomesize.com/, multicellular, "The Animal Genome Size Database provides information on genome size for thousands of species."
+Plant DNA C-values Database, http://data.kew.org/cvalues/, multicellular, "The Plant DNA C-values contains C-values for plant species"
+OMIM, https://omim.org/, multicellular, "OMIM is a catalog of human genes and genetic disorders."
+RefSeq (NCBI), https://www.ncbi.nlm.nih.gov/refseq/, unicellular, "RefSeq is a set of reference sequences including unicellular organisms."
+KEGG, https://www.genome.jp/kegg/, unicellular, "KEGG is a database resource for understanding high-level functions and utilities of the biological system."
